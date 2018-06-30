@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3b773a0b-d32d-4020-a84f-c14363224916",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RedKing": {
+      "ver": "1.0.3",
+      "uuid": "2948cae4-95cd-45c6-9891-58a84594cb28",
+      "rawTextureUuid": "3b773a0b-d32d-4020-a84f-c14363224916",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

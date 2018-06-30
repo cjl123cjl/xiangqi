@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BlackKing",
+    "texture": "63fd8e1c-7b52-4dba-94b9-c1826fe23d66",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      46,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

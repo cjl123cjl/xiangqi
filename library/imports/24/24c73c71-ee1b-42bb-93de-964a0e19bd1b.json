@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HelpButton",
+    "texture": "92665620-3ac9-4329-a624-b53694daccc0",
+    "atlas": "",
+    "rect": [
+      1,
+      6,
+      122,
+      51
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      123,
+      61
+    ]
+  }
+}

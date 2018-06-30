@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RedSoldier",
+    "texture": "e6264f7e-5776-4f52-ab83-161fe1978bae",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      46,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

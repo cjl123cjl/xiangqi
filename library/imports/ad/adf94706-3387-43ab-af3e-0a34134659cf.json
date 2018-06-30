@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RedHorse",
+    "texture": "11a7c20c-b7ec-4800-88df-7391d2968589",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      46,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

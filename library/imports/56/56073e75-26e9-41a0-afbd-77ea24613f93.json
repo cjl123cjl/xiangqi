@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BlackCar",
+    "texture": "5e2129cb-89a1-4515-b6e3-16b7470ae6fc",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      46,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

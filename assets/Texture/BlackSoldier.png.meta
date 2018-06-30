@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f46104ec-ea7a-4269-b2e5-0b388052b2cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BlackSoldier": {
+      "ver": "1.0.3",
+      "uuid": "6af8df60-cc83-4e28-b971-139e73fd537d",
+      "rawTextureUuid": "f46104ec-ea7a-4269-b2e5-0b388052b2cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

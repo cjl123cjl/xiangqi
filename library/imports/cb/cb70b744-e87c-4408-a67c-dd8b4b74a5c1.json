@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BlackCannon",
+    "texture": "0fa529e7-5673-4e4e-b78a-c09638c21431",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      46,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      48,
+      48
+    ]
+  }
+}

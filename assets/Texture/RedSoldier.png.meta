@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e6264f7e-5776-4f52-ab83-161fe1978bae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RedSoldier": {
+      "ver": "1.0.3",
+      "uuid": "1705ccdd-347a-4b64-889f-e118b36dc62e",
+      "rawTextureUuid": "e6264f7e-5776-4f52-ab83-161fe1978bae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

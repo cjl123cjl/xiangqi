@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "677c1980-4ee5-43ba-995a-974c99f63d88",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RedElephent": {
+      "ver": "1.0.3",
+      "uuid": "b3d3dfe4-26bb-4791-80c2-222cdec08015",
+      "rawTextureUuid": "677c1980-4ee5-43ba-995a-974c99f63d88",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

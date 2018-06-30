@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "baee1933-b41d-4d1f-8007-1f2211290188",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RedCannon": {
+      "ver": "1.0.3",
+      "uuid": "a04a56ee-ff2d-47a2-9b75-cac8ff35b49f",
+      "rawTextureUuid": "baee1933-b41d-4d1f-8007-1f2211290188",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

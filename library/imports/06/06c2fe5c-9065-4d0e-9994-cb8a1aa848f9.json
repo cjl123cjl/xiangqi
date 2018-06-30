@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UndoMove",
+    "texture": "6639838a-232c-4c18-9f83-99b8784adafd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      110,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      84
+    ]
+  }
+}

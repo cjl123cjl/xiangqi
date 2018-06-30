@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6753b8af-b259-4520-ac71-042abda4f551",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RedBishop": {
+      "ver": "1.0.3",
+      "uuid": "15a1f32b-62f8-44d2-a5aa-537b694fbc9b",
+      "rawTextureUuid": "6753b8af-b259-4520-ac71-042abda4f551",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 46,
+      "height": 48,
+      "rawWidth": 48,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
